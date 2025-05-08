@@ -2,7 +2,7 @@
 
 This is a free and humanitarian tool to help people recognize cognitive distortions, fallacies, or negative thinking patterns in their thoughts — and gently reframe them.
 
-## How it works
+## How it works 
 
 1. You write a thought.
 2. AI checks if it's distorted or rational.
