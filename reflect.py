@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 
 # Get user input
-user_thought = input("Write your thought:\n").strip()
+user_thought = input("Write your thought :\n").strip()
 
 # Get timestamp
 timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
